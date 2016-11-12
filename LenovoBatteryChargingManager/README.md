@@ -1,6 +1,6 @@
-Lenovo Battery Charging Manager
+# Lenovo Battery Charging Manager
 
-Kosarev Albert © 2016
+## Kosarev Albert © 2016
 
 This script can change start and stop charging tresholds for improving battery life on Lenovo notebooks.
 
