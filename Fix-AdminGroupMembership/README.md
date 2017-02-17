@@ -6,28 +6,14 @@ This script get all members of local admin group, removes disallowed users. It c
 
 Example:
 
-Local group Administrators members *BEFORE*:
-
-user1
-
-user2
-
-Domain\DomainAdminGroup1
-
-Domain\DomainAdminGroup2
-
-Administrator
-
-
-*AFTER*:
-
-Domain\DomainAdminGroup1
-
-Domain\DomainAdminGroup2
-
-Administrator
-
-Admin 
+| Local group Administrators members *BEFORE*| Local group Administrators members *AFTER*|
+| --- | --- |
+| user1 | |
+| user2 | |
+| Domain\DomainAdminGroup1 | Domain\DomainAdminGroup1 |
+| Domain\DomainAdminGroup2 | Domain\DomainAdminGroup2 |
+| Administrator | Administrator |
+| | Admin | 
 
 
 
