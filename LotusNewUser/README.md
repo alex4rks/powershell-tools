@@ -12,5 +12,5 @@ Example content of file:
 
 Alexis;Catherine;;;password1;;;Marketing / Acme;;;;;;Marketing Profile 
 
-## Requirements: Powershell 2.0; Remote Server Administration Tools for retriving data from AD 
-## Kosarev Albert, 2016
+#### Requirements: Powershell 2.0; Remote Server Administration Tools for retriving data from AD 
+#### Kosarev Albert, 2016
