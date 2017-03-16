@@ -15,5 +15,5 @@ Alexis;Catherine;;;password1;;;Marketing / Acme;;;;;;Marketing Profile
 
 ![Main Window](./../_images/lotusnewuser.png "LotusNewUser: Main Window")
 
-#### Requirements: Powershell 2.0; Remote Server Administration Tools for retriving data from AD 
+#### Requirements: Powershell 2.0; Remote Server Administration Tools for retrieving data from AD 
 #### Kosarev Albert, 2016
